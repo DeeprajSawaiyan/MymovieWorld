@@ -1,5 +1,5 @@
 
-# Jareer's MovieLand App
+# MovieWorld App
 
 
 This is a movie search application built with React. It allows users to search for movies by their title or name. The application fetches movie data from the OMDb API.

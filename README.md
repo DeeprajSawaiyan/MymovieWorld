@@ -9,7 +9,7 @@ This is a movie search application built with React. It allows users to search f
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/jareerzeenam/react-movie-search-app.git
+   git clone [https://github.com/DeeprajSawaiyan/MymovieWorld.git]
    ```
 
 2. Navigate to the project directory:
